@@ -1,2 +1,1 @@
-# spring-ai
-spring ai
+# Spring-AI With OpenAI
