@@ -1,2 +1,2 @@
-# spring-boot-ai
-spring boot ai
+# spring-ai
+spring ai
